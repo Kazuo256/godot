@@ -7,6 +7,10 @@ previous feature release. It is equivalent to the listings on our
 Changelogs for earlier feature releases are available in their respective Git
 branches, and linked at the [end of this file](#Past-releases).
 
+## 4.6.2 - Final Flavor custom build
+
+- Obfuscate encryption key when reading pack data
+
 ## 4.6.2 - 2026-05-20
 
 - [Release announcement](https://godotengine.org/article/maintenance-release-godot-4-6-3)
